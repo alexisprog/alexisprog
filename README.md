@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Alexis Sánchez :computer: currently working on JavaScript developer!!!
 
 <!--
 **alexisprog/alexisprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
