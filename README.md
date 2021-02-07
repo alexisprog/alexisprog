@@ -1,7 +1,14 @@
 ### Hi, I'm Alexis Sánchez :computer: currently working on JavaScript developer!!!
 
+
+
 **Linkedin:** https://www.linkedin.com/in/alexis-sanchez-73086211a/
+
 **email** aasvdj@gmail.com
+
+about my attributes as a developer:
+
+
 
 <!--
 **alexisprog/alexisprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
