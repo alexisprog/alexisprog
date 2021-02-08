@@ -21,6 +21,7 @@ const Me = () => {
 }
 ```
 You can find me: :world_map:
+- :phone: [WS: +584120363191](https://wa.me/+584120363191)
 - :briefcase: [Linkedin](https://www.linkedin.com/in/alexis-sanchez-73086211a/)
 - :e-mail: [aasvdj@gmai.com](aasvdj@gmail.com)
 
