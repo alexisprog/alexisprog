@@ -9,7 +9,8 @@ About my attributes as a developer:
 ```js
 const Me = () => {
   code: [Node, JavaScript, PHP, HTML5, CSS],
-  tools: [React, React Native, SailsJS, Express, Laravel, Next, styled-components, hooks],
+  tools: [React, React Native, Expo, SailsJS, Express, Laravel, Next, styled-components, hooks, Prettier],
+  testing: [EsLint, Jest, Mocha, Chai],
   git: [git, gitlab, github, Bitbucket],
   db: [Redis, MongoDB, MariaDB, MySQL, Postgresql],
   devops: [CI/CD, GitLab.CI, Github action],
